@@ -1,0 +1,33 @@
+#headercontent{
+    text-align: right;
+    color: cornsilk;
+    font-size: 50px;
+    font-family: fantasy;
+}
+#fade{
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+.background-image {
+    background-image: url("http://www.digitaltrends.com/wp-content/uploads/2013/09/HDR-photography1.jpg");
+}
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: goldenrod;
+    font-family: cursive;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    color: darksalmon;
+
+
+}
+h2{
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    color: darkred;
+}
+
